@@ -1,5 +1,6 @@
 {
     "name": "L9110 Motor",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
