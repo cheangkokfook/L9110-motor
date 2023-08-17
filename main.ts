@@ -6,7 +6,7 @@ enum Motor_dir {
     forward,
     backward
 }
-namespace L9110_Car {
+namespace L9110_Motor {
 
     //% blockId="L9110M1" block="M1 (P8, P1)| dir %d"
     export function set_dirM1(d: Motor_dir): void {
